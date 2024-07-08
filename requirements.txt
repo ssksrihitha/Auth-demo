@@ -3,4 +3,3 @@ plotly
 streamlit
 streamlit_authenticator
 pathlib
-python==3.12
