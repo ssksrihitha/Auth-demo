@@ -1,5 +1,5 @@
 pandas
 plotly
 streamlit
-streamlit_authenticator
+streamlit_authenticator==0.1.5
 pathlib
